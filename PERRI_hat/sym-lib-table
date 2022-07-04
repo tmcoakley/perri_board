@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CONN-160PIN")(type "Legacy")(uri "${KIPRJMOD}/PERRI_hat_library/ST5-80-1.00-L-D-P-TR.lib")(options "")(descr ""))
+)
