@@ -1,1 +1,2 @@
-PERRRIIIIII hat 
+# PERRI's Hat (RFSoC Mock) 
+
